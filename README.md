@@ -7,4 +7,4 @@ A modified version of "Arduino Robotic Arm Controlled by Touch Interface" by Mau
 Robotic arm is controlled by buttons and arduinos. The input of buttons outputs the following commands: open claw, close claw, wrist up, and wrist down. 
 
 Worked on by Jason Branch and Sarah Nguyen 
-Next iterations: resistors for SG90 servo motor 
+Next iterations: resistors for SG90 servo motor, modification to base of robot
